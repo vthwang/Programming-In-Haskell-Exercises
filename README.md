@@ -1,2 +1,2 @@
 # HaskellExercise
-The exercises answer for Programming in Haskell by Graham Hutton
+The exercises answer for Programming in Haskell(λ) by Graham Hutton
