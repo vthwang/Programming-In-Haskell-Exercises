@@ -5,3 +5,4 @@ Welcome to PR.
 1. [Chapter1](./Exercises/ch1.lhs)
 2. [Chapter2](./Exercises/ch2.lhs)
 3. [Chapter3](./Exercises/ch3.lhs)
+4. [Chapter4](./Exercises/ch4.lhs)
